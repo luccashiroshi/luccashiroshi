@@ -7,7 +7,7 @@
 <div align="">
   <a href="https://github.com/luccashiroshi">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=luccashiroshi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccashiroshi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccashiroshi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
