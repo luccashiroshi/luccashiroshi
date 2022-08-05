@@ -2,7 +2,7 @@
 **🌎 The science of today is the technology of tomorrow... 🌀**
 
 - 🎓 I've just joined the Science and Technology course at ABC Federal University
-- 🧠 I'm currently Learning JavaScript, NodeJS and Python
+- 🧠 I'm currently Learning TypeScript, React and Python
 - 🚀 Always looking for new challenges 
 <div>
   <a href="https://github.com/luccashiroshi">
